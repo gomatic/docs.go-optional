@@ -1,3 +1,5 @@
+[![actions](https://github.com/gomatic/docs.go-optional/actions/workflows/actions.yml/badge.svg)](https://github.com/gomatic/docs.go-optional/actions/workflows/actions.yml) [![docs](https://github.com/gomatic/docs.go-optional/actions/workflows/docs.yml/badge.svg)](https://github.com/gomatic/docs.go-optional/actions/workflows/docs.yml) [![pages](https://github.com/gomatic/docs.go-optional/actions/workflows/pages.yml/badge.svg)](https://github.com/gomatic/docs.go-optional/actions/workflows/pages.yml)
+
 # docs.go-optional
 
 The **public documentation** site for [`gomatic/go-optional`](https://github.com/gomatic/go-optional). Built from [`nicerobot/template.repo-docs`](https://github.com/nicerobot/template.repo-docs) as a self-contained [Hugo](https://gohugo.io) site, published to GitHub Pages.
